@@ -18,4 +18,4 @@ while low<=high:
 if flag:
     print("Element found at index ",mid)
 else:
-    print("Element not found")
+    print("Element not found!!!")
