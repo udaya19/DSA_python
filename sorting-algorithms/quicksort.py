@@ -21,6 +21,6 @@ def partition(a,i,j):
             a[pivot]=temp
     return j
 
-a = [13,534,1,5152,4215,2045,12411]
+a = [423,256,2356,256,26,2,62,61]
 n = len(a)
 quick_sort(a,0,n-1)
